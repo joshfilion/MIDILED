@@ -1,0 +1,12 @@
+-- Found Git: C:/Users/Josh/.espressif/tools/idf-git/2.39.2/cmd/git.exe (found version "2.39.2.windows.1") 
+-- The C compiler identification is GNU 13.2.0
+-- The CXX compiler identification is GNU 13.2.0
+-- The ASM compiler identification is GNU
+-- Found assembler: C:/Users/Josh/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/bin/xtensa-esp32s3-elf-gcc.exe
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: C:/Users/Josh/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/bin/xtensa-esp32s3-elf-gcc.exe
+-- Check for working C compiler: C:/Users/Josh/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/bin/xtensa-esp32s3-elf-gcc.exe - broken
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Josh/Documents/idf/MIDILED/build/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/Josh/Documents/idf/MIDILED/build/CMakeFiles/CMakeError.log".

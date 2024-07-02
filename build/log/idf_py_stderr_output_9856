@@ -1,0 +1,60 @@
+CMake Error: Could not open file for write in copy operation C:/Users/Josh/Documents/idf/MIDILED/build/CMakeFiles/3.24.0/CMakeCCompiler.cmake.tmp
+CMake Error: : System Error: Permission denied
+CMake Error at C:/Users/Josh/.espressif/tools/cmake/3.24.0/share/cmake-3.24/Modules/CMakeDetermineCCompiler.cmake:226 (configure_file):
+  configure_file Problem configuring file
+Call Stack (most recent call first):
+  C:/Users/Josh/esp/v5.2.2/esp-idf/tools/cmake/project.cmake:506 (__project)
+  CMakeLists.txt:8 (project)
+
+
+CMake Error: Could not find cmake module file: C:/Users/Josh/Documents/idf/MIDILED/build/CMakeFiles/3.24.0/CMakeCCompiler.cmake
+CMake Error at C:/Users/Josh/.espressif/tools/cmake/3.24.0/share/cmake-3.24/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile):
+  Unknown extension ".c" for file
+
+    C:/Users/Josh/.espressif/tools/cmake/3.24.0/share/cmake-3.24/Modules/CMakeCCompilerABI.c
+
+  try_compile() works only for enabled languages.  Currently these are:
+
+    ASM C CXX
+
+  See project() command to enable other languages.
+Call Stack (most recent call first):
+  C:/Users/Josh/.espressif/tools/cmake/3.24.0/share/cmake-3.24/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)
+  C:/Users/Josh/esp/v5.2.2/esp-idf/tools/cmake/project.cmake:506 (__project)
+  CMakeLists.txt:8 (project)
+
+
+CMake Error at C:/Users/Josh/.espressif/tools/cmake/3.24.0/share/cmake-3.24/Modules/CMakeTestCCompiler.cmake:56 (try_compile):
+  Unknown extension ".c" for file
+
+    C:/Users/Josh/Documents/idf/MIDILED/build/CMakeFiles/CMakeTmp/testCCompiler.c
+
+  try_compile() works only for enabled languages.  Currently these are:
+
+    ASM C CXX
+
+  See project() command to enable other languages.
+Call Stack (most recent call first):
+  C:/Users/Josh/esp/v5.2.2/esp-idf/tools/cmake/project.cmake:506 (__project)
+  CMakeLists.txt:8 (project)
+
+
+CMake Error at C:/Users/Josh/.espressif/tools/cmake/3.24.0/share/cmake-3.24/Modules/CMakeTestCCompiler.cmake:69 (message):
+  The C compiler
+
+    "C:/Users/Josh/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/bin/xtensa-esp32s3-elf-gcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  C:/Users/Josh/esp/v5.2.2/esp-idf/tools/cmake/project.cmake:506 (__project)
+  CMakeLists.txt:8 (project)
+
+
